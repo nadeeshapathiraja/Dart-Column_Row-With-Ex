@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-class Questation3 extends StatelessWidget {
-  const Questation3({Key? key}) : super(key: key);
+class Questation4 extends StatelessWidget {
+  const Questation4({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Container(
-          child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
+          child: Row(
+        mainAxisAlignment: MainAxisAlignment.start,
         children: [
           Container(
               width: 80,
