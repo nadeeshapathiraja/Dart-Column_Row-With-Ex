@@ -1,4 +1,4 @@
-import 'package:assignment3/questation2/questation5.dart';
+import 'package:assignment3/questation3/questation6.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       //Hide Debug banner
       debugShowCheckedModeBanner: false,
 
-      home: Questation5(),
+      home: Questation6(),
     );
   }
 }
